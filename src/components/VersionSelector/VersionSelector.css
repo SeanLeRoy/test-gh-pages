@@ -1,0 +1,49 @@
+.Version-selector-container {
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.Version-selector {
+    background-color: darkslategrey;
+    border: none;
+    color: #ffffff;
+    font: 1rem/1rem "Hind Siliguri", sans-serif;
+    padding: 0.6em;
+    margin: 0.5em;
+    width: 15em;
+}
+
+.Version-selector:hover {
+    background-color: #76CFE0;
+    color: #003056;
+    font: 1rem/1rem "Hind Siliguri", sans-serif;
+}
+
+.Version-selector:active {
+    background-color: darkslategrey;
+    color: #ffffff;
+}
+
+.Download-button {
+    background-color: #76CFE0;
+    border: none;
+    color: #003056;
+    font: 1rem/1rem "Hind Siliguri", sans-serif;
+    font-weight: 700;
+    padding: 0.75em;
+    margin: 0.5em;
+}
+
+.Download-button:hover {
+    background-color: #9ad6e2;
+}
+
+.Os-instructions-title {
+    font: 2rem/110% "Hind Siliguri", sans-serif;
+    font-weight: 600;
+}
+
+.Os-instructions {
+    font: 1rem/100% "Hind Siliguri", sans-serif;
+    margin: 1rem;
+}
